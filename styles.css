@@ -1,0 +1,26 @@
+body{
+    background-image: url(https://www.huntshowdown.com/assets/img/hero.jpg);
+    background-color: #cccccc;
+    background-size: cover;
+    width:50%;
+}
+h1{
+    background-color: rgba(105, 105, 105, 0.253);
+    
+}
+h2{
+    background-color: rgba(105, 105, 105, 0.253);
+}
+p{
+    background-color: rgba(105, 105, 105, 0.253);
+    font-size: large;
+}
+button{
+    background-color:darkred;
+}
+.center {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width: 50%;
+}
